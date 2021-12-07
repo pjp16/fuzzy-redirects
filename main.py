@@ -1,6 +1,6 @@
-!pip install pandas
-!pip install fuzzywuzzy
-!pip install python-Levenshtein 
+# !pip install pandas
+# !pip install fuzzywuzzy
+# !pip install python-Levenshtein 
 
 from fuzzywuzzy import process,fuzz
 import pandas as pd
